@@ -59,7 +59,8 @@ GIT
 Initialisation : git init
 choisir le dossier : git add .
 stockage des données : git commit -m "Message"
-stocker les données sur github : git push
+stocker les données sur github : git push //  git push -u origin main
+
 
 
 PREMIER PROJET
