@@ -186,8 +186,50 @@
 # print("Poids total pour l'équipe 2 :",pds2)
 
 
-recupMdp = int(input())
-if(recupMdp == 64741):
-    print("Bon festin !")
-else:
-    print("Allez-vous en !")
+# recupMdp = int(input())
+# if(recupMdp == 64741):
+#     print("Bon festin !")
+# else:
+#     print("Allez-vous en !")
+
+# recupVille = int(input())
+# totalHab = 0
+# for i in range(recupVille):
+#     numberHab = int(input())
+#     if(numberHab > 10000):
+#         totalHab += 1
+# print(totalHab)
+
+# positionStart = int(input())
+# village = int(input())
+# nbVillage = 0
+# for i in range(village):
+#     nextVillage = int(input())
+#     if((positionStart + 50) < nextVillage + positionStart or (positionStart + 50) > nextVillage - positionStart and positionStart - nextVillage <= 50):
+#         nbVillage += 1
+    
+# print(nbVillage)
+
+# if(nextVillage > 0):
+#     if(positionStart > nextVillage):
+#         if((positionStart + 50) < nextVillage + positionStart):
+#             nbVillage += 1
+#     elif(positionStart < nextVillage):
+#         if((positionStart + 50) > nextVillage - positionStart):
+#             nbVillage += 1
+
+
+# positionStart = int(input())
+# village = int(input())
+# nbVillage = 0
+# for i in range(village):
+#     positionStartPlus = positionStart + 50
+#     positionStartMoins = positionStart - 50
+#     nextVillage = int(input())
+#     if(nextVillage < positionStartMoins):
+#         nbVillage += 0
+#     elif(nextVillage > positionStartPlus):
+#         nbVillage +=0
+#     else:
+#         nbVillage +=1
+# print(nbVillage)

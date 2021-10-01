@@ -43,17 +43,18 @@ def main():
 
 
 
+    new_list_ppl = list(peoples)
 
-
-    for i in peoples:
+    for name in new_list_ppl:
         
+        number = new_list_ppl.index(name) + 1
         index_random_people = random.randint(0, len(peoples)-1)
         poped_person = peoples.pop(index_random_people)
-        start_string = f"{i}ème"
+        start_string = f"{number}ème"
         end_string = f"il reste {len(peoples)} personnes"
 
-        if i == 1:
-            start_string = f"{i+1}er"
+        if number == 1:
+            start_string = f"{number}er"
 
         if len(peoples) == 0:
             end_string = "il ne reste plus personne"
