@@ -1,0 +1,67 @@
+Premier projet 6 semaines
+
+Outils et environement de travail
+Conception & documentation
+Conduite de projets
+Python, algorithmique, logique
+Bonnes pratiques
+
+
+
+Deuxieme projet 8 à 10 semaines
+
+Conduite de projets avancée
+Python avancé, environnement virtuel
+Programmation orienté objet & design patterns
+Bases de données, modélisation, SQL
+
+
+
+Troisieme projet 10 à 12 semaines
+
+Développement Web, HTML/CSS, resposive préprocesseurs CSS
+Javascript, DOM & évènements Python Web (Django)
+API, sécurité, déploiement & réseaux ODOO
+
+
+PascalCase
+camelCase
+snake_case
+UPPERCASE
+
+définir fonction en python
+def myfunc():
+	code
+	code
+myfunc()
+
+opérateurs mathématiques python
++ - * / % // **
++= -= *= /=
+opérateurs de comparaison python
+> < == <= >= !=
+opérateurs logiques python
+And Or Not 
+
+Collections en python
+Listes []
+Dictionnaires {}
+Tuples ()
+
+Les types en python
+int
+float
+string
+bool -> True ou False 
+bin -> type four tout si une valeur n'est pas un des autres type(images,vidéos,son)
+
+GIT
+Initialisation : git init
+choisir le dossier : git add .
+stockage des données : git commit -m "Message"
+stocker les données sur github : git push
+
+
+PREMIER PROJET
+
+ 
